@@ -3,7 +3,7 @@ import CardList from './components/card-list/card-list';
 // import SearchBox from './components/card-list/search-box';
 // 
 import "./App.css";
-import { useState, useEffect } from 'react';
+// import { useState, useEffect } from 'react';
 import SearchBox from './components/search-box/search-box';
 
 // const App = () => {
